@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="P5-2:war exploded" />
+      <artifact name="SpringMybatisBoardProject2:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,8 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c39d5f-cfc8-4691-97b6-7afd6a26d898" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/board-mappers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/board/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/board/BoardDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/board/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/board/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +65,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/kitty/IdeaProjects/SpringMybatisBoardProject2",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "spring.configuration.checksum": "e90a193408882e63eefc88b62ab14297"
@@ -183,7 +189,7 @@
       <workItem from="1670073276447" duration="590000" />
       <workItem from="1670073900454" duration="2511000" />
       <workItem from="1670076748720" duration="2214000" />
-      <workItem from="1670570362503" duration="228000" />
+      <workItem from="1670570362503" duration="3937000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1670078156556</created>
@@ -192,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670078156556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1670570731721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670570731722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
